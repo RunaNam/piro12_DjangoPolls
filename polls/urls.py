@@ -2,6 +2,5 @@ from django.urls import path
 from . import views
 
 urlpatterns=[
-    path('', views.index, name='index'),"::qw:i"
-]:wq:Q!
-::wq
+    path('', views.index, name='index'),
+]
